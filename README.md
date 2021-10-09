@@ -1,9 +1,9 @@
 # HNA
 Hybrid SFLA-CSO Network Aligner
 
-Authors: Elham Mahdipour, Mohammad Ghasemzadeh
+Author: Elham Mahdipour
 
-This is HNA (Hybrid SFLA-CSO Network Aligner) program, and implemented by Elham Mahdipour that is Ph.D. Candidate of Artificial Intelligence at Yazd University, Yazd, Iran. 
+This is HNA (Hybrid SFLA-CSO Network Aligner) program, and implemented by Elham Mahdipour that is assistant professor, department of Computer Engineering, Khavarn Institute of Higher Education, Mashhad, Iran. 
 
 You can run the program from first to end and see all the results, but since the population generation process can take a time depended on the node numbers of networks, you can use the populations stored in each program. We saved the populations as the pair of related species that you can see in the input folder and load them on program, such as "mm-ce-pop.pickle". Also you need another file such as "mm-ce-base_permute.pickle". Please upload data files on root of jupyter notebook or subfolder.
 
@@ -20,7 +20,7 @@ All copyright reserved by the authors.
 
 Best Regards,
 Elham Mahdipour
-Ph.D. candidate of Artificial Intelligence at Yazd University, Yazd, Iran. 
+Assistant Professor, Department of Computer Engineering, Khavarn Institute of Higher Education, Mashhad, Iran. 
 
 
 
